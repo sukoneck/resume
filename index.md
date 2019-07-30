@@ -1,8 +1,8 @@
 <center><span style="font-family:Didot; font-size:2.5em;">Daffy Duck</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">**Website:**[https://www.monique.tech](https://www.monique.tech)</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">**Github:**[yourGithub](yourGithubLinkURL)</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">**Email:**[youremail@youremail.com](youremail@youremail.com)</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">Gulla Gulla Island, MD USA
+<center><span style="font-family:Didot; font-size:1.5em;">[sukoneck.com](https://www.sukoneck.com)</span></center>
+#<center><span style="font-family:Didot; font-size:1.5em;">**Github:**[yourGithub](yourGithubLinkURL)</span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">[daniel@sukoneck.com](mailto:daniel@sukoneck.com)</span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">Arizona, USA
 </span></center>
 
 <span style="font-family:Didot; font-size:2em;">Objective</span>
