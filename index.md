@@ -1,6 +1,6 @@
 
 <center><span style="font-family:Didot; font-size:2.5em;">   
-   Daniel Lloyd Sukoneck
+   Daniel Sukoneck
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a>
