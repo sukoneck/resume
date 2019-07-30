@@ -1,8 +1,13 @@
-{% seo title=false %}
+<html>
+  <head>
+    {% include head.html %}
+    {% seo title=false %}
+  </head>
+</html>
    
 <center><span style="font-family:Didot; font-size:2.5em;">
    
-   Daniel Lloyd Sukoneck
+   Daniel Sukoneck
 
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
@@ -21,11 +26,7 @@
    
    </span></center>
 
-<span style="font-family:Didot; font-size:2em;">
-   
-   Objective
-   
-   </span>
+<span style="font-family:Didot; font-size:2em;">Objective</span>
 
 > Place your objective here! We can talk about our goals in software development or even how you aspire to be a race car driver. Just make it pertinent to the position your applying for in a debonaire way. Like, 'Oh I happen to be looking for a position where I can utilize my management experience and love for ice cream and you just happen to be Dairy Queen'.
 
