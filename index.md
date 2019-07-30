@@ -1,11 +1,17 @@
 {% seo title=false %}
    
-<center><span style="font-family:Didot; font-size:2.5em;">Daniel Sukoneck</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">[sukoneck.com](https://www.sukoneck.com)</span></center>
-#<center><span style="font-family:Didot; font-size:1.5em;">**Github:**[yourGithub](yourGithubLinkURL)</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">[daniel@sukoneck.com](mailto:daniel@sukoneck.com)</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">Arizona, USA
-</span></center>
+<center><span style="font-family:Didot; font-size:2.5em;">
+   Daniel Sukoneck
+   </span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">
+   [sukoneck.com](https://www.sukoneck.com)
+   </span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">
+   [daniel@sukoneck.com](mailto:daniel@sukoneck.com)
+   </span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">
+   Arizona, USA
+   </span></center>
 
 <span style="font-family:Didot; font-size:2em;">Objective</span>
 
