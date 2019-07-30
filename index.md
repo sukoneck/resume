@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-   </head>
-<body>
+{% seo title=false %}
    
 <center><span style="font-family:Didot; font-size:2.5em;">Daniel Sukoneck</span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">[sukoneck.com](https://www.sukoneck.com)</span></center>
@@ -80,6 +74,3 @@
 - - - -
 > **Email:** yourEmail@yourEmail.com
 > **Phone:**+1(000)867-5309
-
-</body>
-</html>
