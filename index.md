@@ -4,11 +4,9 @@
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    <a href="www.sukoneck.com">sukoneck.com</a>
-   [sukoneck.com](www.sukoneck.com)   
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
-   
-   [daniel@sukoneck.com](mailto:daniel@sukoneck.com)
+   <a href="mailto:daniel@sukoneck.com">daniel@sukoneck.com</a>   
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    Arizona, USA
