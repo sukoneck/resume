@@ -3,13 +3,13 @@
    Daniel Lloyd Sukoneck
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
-   <a href="https://www.sukoneck.com">LinkedIn</a>
+   <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a>
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    <a href="mailto:daniel@sukoneck.com">Email</a>   
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
-   <a href="https://resume.sukoneck.com">Resume</a>   
+   <a href="https://resume.sukoneck.com" target="_blank">Resume</a>   
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    Arizona, USA
