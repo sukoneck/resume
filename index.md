@@ -2,23 +2,29 @@
    
 <center><span style="font-family:Didot; font-size:2.5em;">
    
-   Daniel Sukoneck
+   Daniel Lloyd Sukoneck
+
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    
    [sukoneck.com](https://www.sukoneck.com)
+   
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    
    [daniel@sukoneck.com](mailto:daniel@sukoneck.com)
+   
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    
    Arizona, USA
+   
    </span></center>
 
 <span style="font-family:Didot; font-size:2em;">
+   
    Objective
+   
    </span>
 
 > Place your objective here! We can talk about our goals in software development or even how you aspire to be a race car driver. Just make it pertinent to the position your applying for in a debonaire way. Like, 'Oh I happen to be looking for a position where I can utilize my management experience and love for ice cream and you just happen to be Dairy Queen'.
