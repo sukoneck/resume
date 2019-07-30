@@ -71,12 +71,3 @@
 
 <span style="font-family:Didot; font-size:2em;">Tools/Platforms</span>
 <br />
-- - - -
-
-> * NetBeans, Unity, Unity MonoDevelop, Photoshop, Microsoft suite,
- Adobe suite, Brackets, Visual Code Studio, and Ionic.
- > * **In lieu of this section you can also put a Foreign Languages section or a Products section if you have products in the app store** 
- > * **Tip: If all of your foreign languages are Beginner, think about whether or not you want to include them**
-     
-
-- - - -
