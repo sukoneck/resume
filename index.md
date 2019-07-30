@@ -1,23 +1,17 @@
 
-<center><span style="font-family:Didot; font-size:2.5em;">
-   
+<center><span style="font-family:Didot; font-size:2.5em;">   
    Daniel Lloyd Sukoneck
-
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    
-   [sukoneck.com](https://www.sukoneck.com)
-   
+   [sukoneck.com](www.sukoneck.com)   
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    
    [daniel@sukoneck.com](mailto:daniel@sukoneck.com)
-   
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
-   
    Arizona, USA
-   
    </span></center>
 
 <span style="font-family:Didot; font-size:2em;">Objective</span>
@@ -32,10 +26,10 @@
 
 **Purdue University**                                August 1989- December 1993 
    
-> 1. Here you can place all of your cool accomplishments
-> 2. Like that one time you won the Google Hackathon
-> 3. Or those really cool honor societies you joined
-> 4. Choose these highlights based off of the position you are applying for so you can really shine
+ 1. Here you can place all of your cool accomplishments
+ 2. Like that one time you won the Google Hackathon
+ 3. Or those really cool honor societies you joined
+ 4. Choose these highlights based off of the position you are applying for so you can really shine
 
 <span style="font-family:Didot; font-size:2em;">Technical Experience</span>
 <br />
