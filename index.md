@@ -3,7 +3,7 @@
    Daniel Lloyd Sukoneck
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
-   <a href="www.sukoneck.com">sukoneck.com</a>
+   <a href="https://www.sukoneck.com">sukoneck.com</a>
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    <a href="mailto:daniel@sukoneck.com">daniel@sukoneck.com</a>   
