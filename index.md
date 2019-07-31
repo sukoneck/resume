@@ -46,7 +46,6 @@
 <br />
 
 **Arizona State University** 
-
  * Bachelor's in Philosophy
  * Certificate in Ethics
  * Certificate in Symbolic Systems
