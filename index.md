@@ -6,9 +6,6 @@
    <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a>
    &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="mailto:daniel@sukoneck.com">Email</a>
-<!--   &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://resume.sukoneck.com">Resume</a>
--->
    </span></center>
 <br />
 
@@ -22,15 +19,15 @@
 <br />
 
 
-**Product Manager New York, NY**
-**Instagram, Technical Product Manager**               January 2017 – Present
+**Senior Consultant, Cloud and Infrastructure** <br />
+**West Monroe Partners** &emsp;&emsp; January 2017 – Present
  * Create bullet points that reflect action, make the action word the first word in the bullet point
  * Communicate important job responsibilities that are relevant to the position at hand
  * Use numbers where applicable. Don't just say 'I increased sales' say 'I increased sales by 10%'
  * Always place actions in the present tense, you still possess these skills.
 
-**Technical Product Manager San Fransisco, CA**
-**Uber**, San Fransisco, CA        June 2016-January 2017
+**Network Administrator** <br />
+**Safety Services Company**, AZ &emsp;&emsp; June 2016-January 2017
  * Follow the same guidelines that we discussed in the first example
  * Always as yourself 'What does this experience add to my resume? What gaps does it fill?
  * This will help you figure out what to say!
