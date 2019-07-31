@@ -58,6 +58,6 @@
 
 <footer>
    <br />
-   <center><big>daniel@sukoneck.com</big><br />Arizona, USA</center>
+   <center>daniel@sukoneck.com<br /><small>Arizona, USA</small></center>
    <br />
 </footer>
