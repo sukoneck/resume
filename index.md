@@ -2,9 +2,13 @@
 <center><span style="font-family:Didot; font-size:2.5em;">   
    Daniel Sukoneck
    </span></center>
+
 <center><span style="font-family:Didot; font-size:1.5em;">
-   <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a>    <a href="mailto:daniel@sukoneck.com">Email</a>     <a href="https://resume.sukoneck.com">Resume</a>
+   <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a>
+   <a href="mailto:daniel@sukoneck.com">Email</a>
+   <a href="https://resume.sukoneck.com">Resume</a>
    </span></center>
+
 <!--
 <center><span style="font-family:Didot; font-size:1.5em;">
    <a href="mailto:daniel@sukoneck.com">Email</a>   
@@ -13,16 +17,21 @@
    <a href="https://resume.sukoneck.com" target="_blank">Resume</a>   
    </span></center>
 -->
+
 <center><span style="font-family:Didot; font-size:1.5em;">
    Arizona, USA
    </span></center>
 
 <span style="font-family:Didot; font-size:2em;">Objective</span>
 
+<hr>
+
 > Place your objective here! We can talk about our goals in software development or even how you aspire to be a race car driver. Just make it pertinent to the position your applying for in a debonaire way. 
 
 <span style="font-family:Didot; font-size:2em;">Education</span>
 <br />
+
+<hr>
 
 **Purdue University**                                August 1989- December 1993 
    
@@ -62,6 +71,8 @@
 
 <span style="font-family:Didot; font-size:2em;">Programming Languages</span>
 <br />
+
+<hr>
 
    * Intermediate HTML, Intermediate SCSS,Intermediate CSS, Intermediate Typescript. 
    * **Tip: Remember every language here is *FAIR GAME*, if you don't feel comfortable coding in it, do not include it. It is all about *DEPTH* of knowledge not *BREADTH* of knowledge**
