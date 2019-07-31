@@ -6,9 +6,10 @@
    <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a>
    &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="mailto:daniel@sukoneck.com">Email</a>
-   &nbsp;&nbsp;&nbsp;&nbsp;
+<!--   &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://resume.sukoneck.com">Resume</a>
    </span></center>
+-->
 <br />
 
 
