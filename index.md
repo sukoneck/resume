@@ -47,9 +47,9 @@
 
 **Arizona State University** &emsp; Completed 2012 
 
- * Bachelor's
- * Cert
- * Cert
+ * Bachelor's in Philosophy
+ * Certificate in Ethics
+ * Certificate in Symbolic Systems
 
 
 
