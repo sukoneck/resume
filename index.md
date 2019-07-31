@@ -9,10 +9,6 @@
    <a href="https://resume.sukoneck.com">Resume</a>
    </span></center>
 
-<center><span style="font-family:Didot; font-size:1.5em;">
-   Arizona, USA
-   </span></center>
-
 <span style="font-family:Didot; font-size:2em;">Objective</span>
 
 > Place your objective here! We can talk about our goals in software development or even how you aspire to be a race car driver. Just make it pertinent to the position your applying for in a debonaire way. 
@@ -62,3 +58,9 @@
    * Intermediate HTML, Intermediate SCSS,Intermediate CSS, Intermediate Typescript. 
    * Tip: If you don't feel comfortable coding in it, do not include it. It is all about *DEPTH* of knowledge not *BREADTH* of knowledge
    * Tip: You don't have to classify information as beginner,intermediate, advanced. You can also use years experience as well.
+
+<br />
+<center>**Email:** daniel@sukoneck.com </center>
+<center><span style="font-family:Didot; font-size:1.5em;">
+   Arizona, USA
+   </span></center>
