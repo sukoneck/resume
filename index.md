@@ -3,14 +3,16 @@
    Daniel Sukoneck
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
-   <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> - <a href="mailto:daniel@sukoneck.com">Email</a>
+   <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> <a href="mailto:daniel@sukoneck.com">Email</a> <a href="https://resume.sukoneck.com" target="_blank">Resume</a>
    </span></center>
+<!--
 <center><span style="font-family:Didot; font-size:1.5em;">
    <a href="mailto:daniel@sukoneck.com">Email</a>   
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    <a href="https://resume.sukoneck.com" target="_blank">Resume</a>   
    </span></center>
+-->
 <center><span style="font-family:Didot; font-size:1.5em;">
    Arizona, USA
    </span></center>
