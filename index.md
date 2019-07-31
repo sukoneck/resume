@@ -5,9 +5,9 @@
 
 <center><span style="font-family:Didot; font-size:1.5em;">
    <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a>
-   &emsp
+   &emsp;
    <a href="mailto:daniel@sukoneck.com">Email</a>
-   &emsp
+   &emsp;
    <a href="https://resume.sukoneck.com">Resume</a>
    </span></center>
 
