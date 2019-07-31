@@ -60,7 +60,7 @@
    * Tip: You don't have to classify information as beginner,intermediate, advanced. You can also use years experience as well.
 
 <br />
-<center>**Email:** daniel@sukoneck.com </center>
+<center>daniel@sukoneck.com</center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    Arizona, USA
    </span></center>
