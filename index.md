@@ -56,10 +56,11 @@
  * Cert
  * Cert
 
-<br />
 <footer>
-   <center>daniel@sukoneck.com</center>
-   <center><span style="font-family:Didot; font-size:1.25em;">
+   <br />
+   <center><big>daniel@sukoneck.com</big></center>
+   <center>
       Arizona, USA
       </span></center>
+   <br />
 </footer>
