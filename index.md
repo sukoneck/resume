@@ -3,7 +3,7 @@
    Daniel Sukoneck
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
-   <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a>
+   <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> - <a href="mailto:daniel@sukoneck.com">Email</a>
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
    <a href="mailto:daniel@sukoneck.com">Email</a>   
@@ -21,7 +21,6 @@
 
 <span style="font-family:Didot; font-size:2em;">Education</span>
 <br />
-- -
 
 **Purdue University**                                August 1989- December 1993 
    
@@ -30,7 +29,7 @@
  3. Or those really cool honor societies you joined
  4. Choose these highlights based off of the position you are applying for so you can really shine
 
-<span style="font-family:Didot; font-size:2em;">Technical Experience</span>- - - -
+<span style="font-family:Didot; font-size:2em;">Technical Experience</span>
 <br />
 
 
@@ -61,11 +60,7 @@
 
 <span style="font-family:Didot; font-size:2em;">Programming Languages</span>
 <br />
-- - - -
 
-   > * Intermediate HTML, Intermediate SCSS,Intermediate CSS, Intermediate Typescript. 
-   >* **Tip: Remember every language here is *FAIR GAME*, if you don't feel comfortable coding in it, do not include it. It is all about *DEPTH* of knowledge not *BREADTH* of knowledge**
-   >* **Tip: You don't have to classify information as beginner,intermediate, advanced. You can also use years experience as well.**
-
-<span style="font-family:Didot; font-size:2em;">Tools/Platforms</span>
-<br />
+   * Intermediate HTML, Intermediate SCSS,Intermediate CSS, Intermediate Typescript. 
+   * **Tip: Remember every language here is *FAIR GAME*, if you don't feel comfortable coding in it, do not include it. It is all about *DEPTH* of knowledge not *BREADTH* of knowledge**
+   * **Tip: You don't have to classify information as beginner,intermediate, advanced. You can also use years experience as well.**
