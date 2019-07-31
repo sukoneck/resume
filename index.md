@@ -45,7 +45,7 @@
 <span style="font-family:Didot; font-size:2em;">Education</span>
 <br />
 
-**Arizona State University** &emsp; Completed 2012 
+**Arizona State University** 
 
  * Bachelor's in Philosophy
  * Certificate in Ethics
