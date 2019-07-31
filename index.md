@@ -57,7 +57,7 @@
  * Cert
 
 <br />
-<center>daniel@sukoneck.com</center>
-<center><span style="font-family:Didot; font-size:1.5em;">
+<center><span style="font-family:Didot; font-size:1em;">
+   daniel@sukoneck.com
    Arizona, USA
    </span></center>
