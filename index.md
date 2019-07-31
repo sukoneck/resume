@@ -8,8 +8,8 @@
    <a href="mailto:daniel@sukoneck.com">Email</a>
 <!--   &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://resume.sukoneck.com">Resume</a>
-   </span></center>
 -->
+   </span></center>
 <br />
 
 
