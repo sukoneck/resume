@@ -21,7 +21,7 @@
 
 <span style="font-family:Didot; font-size:2em;">Education</span>
 <br />
-- - -
+- -
 
 **Purdue University**                                August 1989- December 1993 
    
@@ -30,9 +30,9 @@
  3. Or those really cool honor societies you joined
  4. Choose these highlights based off of the position you are applying for so you can really shine
 
-<span style="font-family:Didot; font-size:2em;">Technical Experience</span>
+<span style="font-family:Didot; font-size:2em;">Technical Experience</span>- - - -
 <br />
-- - - -
+
 
 **Product Manager New York, NY**
 **Instagram, Technical Product Manager**               January 2017 – Present
