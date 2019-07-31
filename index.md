@@ -19,15 +19,13 @@
 <br />
 
 
-**Senior Consultant, Cloud and Infrastructure** <br />
-West Monroe Partners, Seattle WA &emsp;&emsp;&emsp;&emsp; January 2017 – Present
+**Senior Consultant, Cloud and Infrastructure**, West Monroe Partners, Seattle WA, January 2017 – Present
  * Create bullet points that reflect action, make the action word the first word in the bullet point
  * Communicate important job responsibilities that are relevant to the position at hand
  * Use numbers where applicable. Don't just say 'I increased sales' say 'I increased sales by 10%'
  * Always place actions in the present tense, you still possess these skills.
 
-<big><b>Network Administrator</b></big> <br />
-Safety Services Company, Tempe AZ &emsp;&emsp;&emsp;&emsp; June 2016-January 2017
+**Network Administrator**, Safety Services Company, Tempe AZ, June 2016-January 2017
  * Follow the same guidelines that we discussed in the first example
  * Always as yourself 'What does this experience add to my resume? What gaps does it fill?
  * This will help you figure out what to say!
