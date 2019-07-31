@@ -52,7 +52,7 @@
  * All experience is pertinent experience, it's not what you've done as much as it is how you package your accomplishements
  * An example would be using this seemingly non-technical position to showcase leader ship skills
  * Did you communicate with cross-functional teams or people of varying technical skill levels? You can use this section to showcase that.
- * Also remember that you want to maximize your resume for buzz words. You can figure out what these are from the job posting as well as sample resumes online. This will increase your chances of getting a call for an interview.
+ * Also remember that you want to maximize your resume for buzz words. 
 
 
 
@@ -60,5 +60,5 @@
 <br />
 
    * Intermediate HTML, Intermediate SCSS,Intermediate CSS, Intermediate Typescript. 
-   * **Tip: Remember every language here is *FAIR GAME*, if you don't feel comfortable coding in it, do not include it. It is all about *DEPTH* of knowledge not *BREADTH* of knowledge**
-   * **Tip: You don't have to classify information as beginner,intermediate, advanced. You can also use years experience as well.**
+   * Tip: If you don't feel comfortable coding in it, do not include it. It is all about *DEPTH* of knowledge not *BREADTH* of knowledge
+   * Tip: You don't have to classify information as beginner,intermediate, advanced. You can also use years experience as well.
