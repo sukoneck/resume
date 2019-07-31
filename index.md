@@ -4,9 +4,11 @@
    </span></center>
 
 <center><span style="font-family:Didot; font-size:1.5em;">
-   <pre><a href="https://www.sukoneck.com" target="_blank">LinkedIn</a></pre>
-   <pre><a href="mailto:daniel@sukoneck.com">Email</a></pre>
-   <pre><a href="https://resume.sukoneck.com">Resume</a></pre>
+   <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a>
+   &emsp
+   <a href="mailto:daniel@sukoneck.com">Email</a>
+   &emsp
+   <a href="https://resume.sukoneck.com">Resume</a>
    </span></center>
 
 <span style="font-family:Didot; font-size:2em;">Objective</span>
