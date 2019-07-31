@@ -19,7 +19,7 @@
 <br />
 
 
-**Senior Consultant, Cloud and Infrastructure**, West Monroe Partners, Seattle WA, January 2017 – Present
+**Senior Cloud and Infrastructure Consultant**, West Monroe Partners, Seattle WA, January 2017 – Present
  * Create bullet points that reflect action, make the action word the first word in the bullet point
  * Communicate important job responsibilities that are relevant to the position at hand
  * Use numbers where applicable. Don't just say 'I increased sales' say 'I increased sales by 10%'
