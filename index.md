@@ -26,7 +26,7 @@ West Monroe Partners, Seattle WA &emsp;&emsp;&emsp;&emsp; January 2017 – Prese
  * Use numbers where applicable. Don't just say 'I increased sales' say 'I increased sales by 10%'
  * Always place actions in the present tense, you still possess these skills.
 
-**Network Administrator** <br />
+<big><b>Network Administrator**</big></b> <br />
 Safety Services Company, Tempe AZ &emsp;&emsp;&emsp;&emsp; June 2016-January 2017
  * Follow the same guidelines that we discussed in the first example
  * Always as yourself 'What does this experience add to my resume? What gaps does it fill?
