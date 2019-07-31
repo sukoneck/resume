@@ -54,7 +54,7 @@
 **Arizona State University** &emsp; Completed 2012 
 
  * Bachelor's
- * Cisco Certified Network Associate <a href="https://www.youracclaim.com/badges/54a8a8a7-9309-4cef-9ae5-beffef77e117/public_url">(CCNA)</a>
+ * Cisco Certified Network Associate (<a href="https://www.youracclaim.com/badges/54a8a8a7-9309-4cef-9ae5-beffef77e117/public_url">CCNA</a>)
  * Cert
 
 
