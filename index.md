@@ -1,5 +1,7 @@
 <!-- 
-Icon made by www.flaticon.com/authors/smashicons from www.flaticon.com is licensed by creativecommons.org/licenses/by/3.0/
+Source code by github.com/sukoneck/resume is hosted by GitHub Pages
+Site template by www.monique.tech/the-art-of-markdown
+Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is licensed by creativecommons.org/licenses/by/3.0/
 -->
 
 
@@ -23,7 +25,7 @@ Icon made by www.flaticon.com/authors/smashicons from www.flaticon.com is licens
 <br />
 
 
-**Senior Cloud and Infrastructure Consultant**, West Monroe Partners, Seattle WA, Sept 2014 to June 2019
+**Senior Cloud and Infrastructure Consultant**, West Monroe Partners, Seattle WA, Sept 2014 - June 2019
  * Create bullet points that reflect action, make the action word the first word in the bullet point
  * Communicate important job responsibilities that are relevant to the position at hand
  * Use numbers where applicable. Don't just say 'I increased sales' say 'I increased sales by 10%'
