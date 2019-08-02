@@ -7,7 +7,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 -->
 
 
-
+<br /><br /><br />
 <center><span style="font-family:Didot; font-size:2.5em;">   
    Daniel Sukoneck
    </span></center>
@@ -48,7 +48,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 
 
-
+<br />
 <span style="font-family:Didot; font-size:2em;">Certifications and Projects</span>
 <br />
 
@@ -58,7 +58,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
  * I built a POC CI/CD pipeline that uses fun technologies like Azure DevOps and Docker (<a href="https://project.sukoneck.com" target="_blank">Details</a>) 
 
 
-
+<br />
 <span style="font-family:Didot; font-size:2em;">Education</span>
 <br />
 
@@ -71,7 +71,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 
 <footer>
-   <br /><br />
+   <br /><br /><br />
    <center>daniel@sukoneck.com<br /><small>Arizona, USA</small></center>
-   <br /><br />
+   <br />
 </footer>
