@@ -22,8 +22,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 <!--
 <p style="font-family:Didot; font-size:1.25em; text-align:center;"> padding: 50px; margin: 75px; background-color: #f1f1f1;
 -->
-<center>I am a creative cloud and infrastructure practitioner whose burgeoning passion for DevOps, SRE, and automation rivals that for mentorship, sponsorship, and leadership. I have had great opportunities to lead large, constrained, and impactful projects. 
-</center>
+<center><big>I am a creative cloud and infrastructure practitioner whose burgeoning passion for DevOps, SRE, and automation rivals that for mentorship, sponsorship, and leadership. I have had great opportunities to lead large, constrained, and impactful projects.</big></center>
 <br />
 
 
