@@ -5,6 +5,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 -->
 
 
+
 <center><span style="font-family:Didot; font-size:2.5em;">   
    Daniel Sukoneck
    </span></center>
@@ -17,13 +18,16 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 
 
+
 <span style="font-family:Didot; font-size:2em;">Objective</span>
 
-> Passionate about technology, cloud computing and mentorship. I have had a great opportunities being part of large engagements that have given me deep exposure and experience in industries ranging from health care to airlines.  
+> A cloud and infrastructure practitioner and aspiring DevOps engineer with an equal passion for mentorship, sponsorship, and leadership. I have had great opportunities to lead large, complex, constrained, and impactful projects. 
+
+
+
 
 <span style="font-family:Didot; font-size:2em;">Technical Experience</span>
 <br />
-
 
 **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
  * Create bullet points that reflect action, make the action word the first word in the bullet point
@@ -41,12 +45,17 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
  * Instigated and managed rollout of roaming profiles for mobile users
 
 
+
+
 <span style="font-family:Didot; font-size:2em;">Certifications</span>
 <br />
 
  * Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure (<a href="https://www.youracclaim.com/badges/5be9a88b-9ca7-4271-b819-1a22ec7c3ed2/public_url" target="_blank">MCSE</a>) 
  * Microsoft Certified Solutions Associate: Windows Server 2012 (<a href="https://www.youracclaim.com/badges/b9f23041-35f5-429e-a10b-69fc4fcd4765/public_url" target="_blank">MCSA</a>) 
  * Cisco Certified Network Associate (<a href="https://www.youracclaim.com/badges/54a8a8a7-9309-4cef-9ae5-beffef77e117/public_url" target="_blank">CCNA</a>) 
+
+
+
 
 <span style="font-family:Didot; font-size:2em;">Education</span>
 <br />
@@ -55,6 +64,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
  * Bachelor of Arts in Philosophy
  * Certificate in Ethics
  * Certificate in Symbolic Systems
+
 
 
 
