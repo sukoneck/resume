@@ -1,7 +1,9 @@
 <!-- 
-Source code by github.com/sukoneck/resume is hosted by GitHub Pages.
-Site template by www.monique.tech/the-art-of-markdown.
-Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is licensed by creativecommons.org/licenses/by/3.0/.
+Source code at github.com/sukoneck/resume is presented via pages.github.com
+
+Site template by www.monique.tech/the-art-of-markdown
+
+Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is licensed by creativecommons.org/licenses/by/3.0
 -->
 
 
