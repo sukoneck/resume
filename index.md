@@ -27,7 +27,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 
 
-<span style="font-family:Didot; font-size:2em;">Technical Experience</span>
+<span style="font-family:Didot; font-size:2em;">Experience</span>
 <br />
 
 **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
