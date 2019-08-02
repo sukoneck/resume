@@ -12,19 +12,16 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
    Daniel Sukoneck
    </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">
-   <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="mailto:daniel@sukoneck.com">Email</a>
+   <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:daniel@sukoneck.com">Email</a> &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/sukoneck/resume">GitHub</a>
    </span></center>
 <br />
 
 
 
-<!--
-<div align="center">
-</div>
--->
-<p style="font-family:Didot; font-size:1.25em; text-align:center; background-color: #f1f1f1; padding: 50px; margin: 75px;">
+<!-- padding: 50px; margin: 75px;-->
+<p style="font-family:Didot; font-size:1.25em; text-align:center; background-color: #f1f1f1;">
    I am a creative cloud and infrastructure practitioner who has as much passion for DevOps, SRE, and automation as I do for mentorship, sponsorship, and leadership. I have had great opportunities to lead large, constrained, and impactful projects. 
 </p>
 <br />
