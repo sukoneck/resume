@@ -24,7 +24,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 <div align="center">
 </div>
 -->
-<p style="font-family:Didot; font-size:1.25em; text-align:center; background-color: #f1f1f1; padding: 20px; margin: auto;">
+<p style="font-family:Didot; font-size:1.25em; text-align:center; background-color: #f1f1f1; padding: 20px; margin: 50px auto;">
    I am a creative cloud and infrastructure practitioner who has as much passion for DevOps, SRE, and automation as I do for mentorship, sponsorship, and leadership. I have had great opportunities to lead large, constrained, and impactful projects. 
 </p>
 <br />
