@@ -71,7 +71,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 
 <footer>
-   <br />
+   <br /><br />
    <center>daniel@sukoneck.com<br /><small>Arizona, USA</small></center>
-   <br />
+   <br /><br />
 </footer>
