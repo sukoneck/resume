@@ -14,7 +14,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 <center><span style="font-family:Didot; font-size:1.5em;">
    <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="mailto:daniel@sukoneck.com">Email</a> &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/sukoneck/resume">GitHub</a>
+   <a href="https://github.com/sukoneck">GitHub</a>
    </span></center>
 <br />
 
