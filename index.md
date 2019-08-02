@@ -31,11 +31,21 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
  * Use numbers where applicable. Don't just say 'I increased sales' say 'I increased sales by 10%'
  * Always place actions in the present tense, you still possess these skills.
 
-**Network Administrator**, Safety Services Company, Tempe AZ, Sept 2014-June 2019
- * Follow the same guidelines that we discussed in the first example
- * Always as yourself 'What does this experience add to my resume? What gaps does it fill?
- * This will help you figure out what to say!
- * Keep your bullet points to one sentence, say more with less.
+**Network Administrator**, Safety Services Company, Tempe AZ, Apr 2013 - Sept 2014
+Network Administrator
+ * Modernized security suite from EOL technology to a robust and centrally managed dashboard 
+ * Architected enterprise SharePoint sites per departmental and security needs  
+ * Managed NOC hardware relocation and datacenter rack reconstruction to improve disaster recovery
+ * Implemented VMware ESXi and vCenter to accommodate growth while cutting power and storage costs
+ * Expanded SAN storage to host Hyper-V and VMware expansion
+ * Administrated VoIP PBX, predictive dialer, and call recording systems
+ * Security and systems administrator of Active Directory, Exchange Server, Dynamics Great Plains, SharePoint, Lync, and all user * provisioning in a multiple domain network
+ * Led a team of three desktop support technicians with a high end user/technician ratio 
+ * Trained all new team members from entry level competence to effective technicians 
+ * Implemented and documented SOP for all desktop support issues including escalation 
+ * Orchestrated enterprise reimage of desktops to standardize and ease administration
+ * Instigated and managed rollout of roaming profiles for mobile users
+
 
 <span style="font-family:Didot; font-size:2em;">Certifications</span>
 <br />
