@@ -19,7 +19,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <span style="font-family:Didot; font-size:2em;">Objective</span>
 
-> Place your objective here! We can talk about our goals in software development or even how you aspire to be a race car driver. Just make it pertinent to the position your applying for in a debonaire way. 
+> Passionate about technology, cloud computing and mentorship. I have had a great opportunities being part of large engagements that have given me deep exposure and experience in industries ranging from health care to airlines.  
 
 <span style="font-family:Didot; font-size:2em;">Technical Experience</span>
 <br />
@@ -52,7 +52,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 <br />
 
 **Arizona State University**,  Graduated 2012
- * Bachelor's in Philosophy
+ * Bachelor of Arts in Philosophy
  * Certificate in Ethics
  * Certificate in Symbolic Systems
 
