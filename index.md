@@ -25,13 +25,13 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 <br />
 
 
-**Senior Cloud and Infrastructure Consultant**, West Monroe Partners, Seattle WA, Sept 2014 - June 2019
+**Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
  * Create bullet points that reflect action, make the action word the first word in the bullet point
  * Communicate important job responsibilities that are relevant to the position at hand
  * Use numbers where applicable. Don't just say 'I increased sales' say 'I increased sales by 10%'
  * Always place actions in the present tense, you still possess these skills.
 
-**Network and System Administrator**, Safety Services Company, Tempe AZ, Apr 2013 - Sept 2014
+**Network and System Administrator**,  Safety Services Company,  Tempe AZ,  Apr 2013 - Sept 2014
  * Managed NOC hardware relocation and datacenter rack reconstruction to improve disaster recovery
  * Implemented VMware ESXi/vCenter and expanded SAN storage to accommodate growth while cutting costs
  * Security and systems administrator of Active Directory, Exchange, Dynamics Great Plains, SharePoint, Lync, and user provisioning in a multiple domain network
@@ -51,7 +51,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 <span style="font-family:Didot; font-size:2em;">Education</span>
 <br />
 
-**Arizona State University** 
+**Arizona State University**,  Graduated 2012
  * Bachelor's in Philosophy
  * Certificate in Ethics
  * Certificate in Symbolic Systems
