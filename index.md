@@ -22,7 +22,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 <div align="justify">
    I am a creative cloud and infrastructure practitioner with equal passions for DevOps, SRE, and automation as I do for mentorship, sponsorship, and leadership. I have had great opportunities to lead large, complex, constrained, and impactful projects. 
 </div>
-
+<br />
 
 
 <span style="font-family:Didot; font-size:2em;">Technical Experience</span>
