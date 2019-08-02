@@ -31,17 +31,11 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
  * Use numbers where applicable. Don't just say 'I increased sales' say 'I increased sales by 10%'
  * Always place actions in the present tense, you still possess these skills.
 
-**Network Administrator**, Safety Services Company, Tempe AZ, Apr 2013 - Sept 2014
-Network Administrator
- * Modernized security suite from EOL technology to a robust and centrally managed dashboard 
- * Architected enterprise SharePoint sites per departmental and security needs  
+**Network and System Administrator**, Safety Services Company, Tempe AZ, Apr 2013 - Sept 2014
  * Managed NOC hardware relocation and datacenter rack reconstruction to improve disaster recovery
- * Implemented VMware ESXi and vCenter to accommodate growth while cutting power and storage costs
- * Expanded SAN storage to host Hyper-V and VMware expansion
- * Administrated VoIP PBX, predictive dialer, and call recording systems
- * Security and systems administrator of Active Directory, Exchange Server, Dynamics Great Plains, SharePoint, Lync, and all user * provisioning in a multiple domain network
- * Led a team of three desktop support technicians with a high end user/technician ratio 
- * Trained all new team members from entry level competence to effective technicians 
+ * Implemented VMware ESXi/vCenter and expanded SAN storage to accommodate growth while cutting costs
+ * Security and systems administrator of Active Directory, Exchange, Dynamics Great Plains, SharePoint, Lync, and user provisioning in a multiple domain network
+ * Trained and led a team of three desktop support technicians with a high end user/technician ratio 
  * Implemented and documented SOP for all desktop support issues including escalation 
  * Orchestrated enterprise reimage of desktops to standardize and ease administration
  * Instigated and managed rollout of roaming profiles for mobile users
