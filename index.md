@@ -28,10 +28,14 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 <span style="font-family:Didot; font-size:2em;">Experience</span><br />
 
 **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
- * Create bullet points that reflect action, make the action word the first word in the bullet point
- * Communicate important job responsibilities that are relevant to the position at hand
- * Use numbers where applicable. Don't just say 'I increased sales' say 'I increased sales by 10%'
- * Always place actions in the present tense, you still possess these skills.
+ * Created three year migration roadmap for leading credit union by partnering with both IT and business leadership. Implemented custom migration pipeline to satisfy security, audit, and risk requirements. Developed future-state architecture designs and led migration teams to migrate all applications from on-premises to hybrid Azure/colocation.      
+ * Healthcare analytics
+ * Cloud advisory
+ * Security tools
+ * Office 365 
+ * Sealab
+ * Coaching
+ * Consultant of the Year and Next Generation of Leaders
 
 **Network and System Administrator**,  Safety Services Company,  Tempe AZ,  Apr 2013 - Sept 2014
  * Managed NOC hardware relocation and datacenter rack reconstruction to improve disaster recovery
