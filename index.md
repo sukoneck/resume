@@ -29,13 +29,13 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
 
- * Created two year migration roadmap for leading credit union by partnering with **IT and business leadership**. Implemented custom migration pipeline to satisfy security, audit, and risk requirements resulting in a five-epic scrum template. Developed **future-state architecture** and business continuity designs for **more than 100 applications**. Led up to **15 concurrent application teams** of up to 10 dedicated consulting and client resources to migrate applications from on-premises locations to a **hybrid of Azure regions and colocations**. Culminated in leading **more than 60 resources** through the migration of 15 core banking applications in a single weekend with no critical incidents.
+ * Created two year migration roadmap for leading credit union by **partnering with IT and business leadership**. Implemented custom migration pipeline to satisfy security, audit, and risk requirements resulting in a five-epic scrum template. **Developed future-state architecture** and business continuity designs for more than 50 applications. **Led as many as 15 concurrent application teams** of up to 10 dedicated consulting and client resources to migrate applications from on-premises locations to a **hybrid of Azure regions and colocations**. Culminated in leading **more than 60 resources** through the migration of 15 core banking applications in a single weekend with no critical incidents
  * Healthcare analytics
  * Cloud advisory
  * Security tools
  * Sealab
- * Coaching
- * Consultant of the Year and Next Generation of Leaders
+ * 
+ * Awarded the west coast's **Consultant of the Year** in 2017 and selected for a six month mentorship program with executive leadership
 
 **Network and System Administrator**,  Safety Services Company,  Tempe AZ,  Apr 2013 - Sept 2014
  * Managed NOC hardware relocation and datacenter rack reconstruction to improve disaster recovery
