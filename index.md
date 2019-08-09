@@ -29,7 +29,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
 
- * Created two year migration roadmap for leading credit union by partnering with both IT and business leadership. Implemented custom migration pipeline to satisfy security, audit, and risk requirements resulting in a five-epic scrum template. Developed future-state architecture and business continuity designs for more than 100 applications. Led up to 15 concurrent migration teams of up to 10 dedicated consulting and client resources to migrate applications from two on-premises locations to a hybrid of two Azure regions and two colocations. Culminated in leading more than 60 resources through the migration of 15 core banking applications in a single weekend with no critical incidents.
+ * Created two year migration roadmap for leading credit union by partnering with **IT and business leadership**. Implemented custom migration pipeline to satisfy security, audit, and risk requirements resulting in a five-epic scrum template. Developed **future-state architecture** and business continuity designs for **more than 100 applications**. Led up to **15 concurrent application teams** of up to 10 dedicated consulting and client resources to migrate applications from on-premises locations to a **hybrid of Azure regions and colocations**. Culminated in leading **more than 60 resources** through the migration of 15 core banking applications in a single weekend with no critical incidents.
  * Healthcare analytics
  * Cloud advisory
  * Security tools
@@ -63,9 +63,9 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 <br /><span style="font-family:Didot; font-size:2em;">Education</span><br />
 
 **Arizona State University**,  Graduated 2012
- * Bachelor of Arts in Philosophy
- * Certificate in Ethics
- * Certificate in Symbolic Systems
+ * Bachelor of Arts, Philosophy
+ * Certificate, Ethics
+ * Certificate, Symbolic Systems
 
 
 
