@@ -30,7 +30,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
 
  * Created two year migration roadmap for leading credit union by **partnering with IT and business leadership**. Implemented custom migration pipeline to satisfy security, audit, and risk requirements resulting in a five-epic scrum template. **Developed future-state architecture** and business continuity designs for more than 50 applications. **Led as many as 15 concurrent application teams** of up to 10 dedicated consulting and client resources to migrate applications from on-premises locations to a **hybrid of Azure regions and colocations**. Culminated in leading **more than 60 resources** through the migration of 15 core banking applications in a single weekend with no critical incidents
- * Healthcare analytics
+ * Executed all requirements gathering, design, and implementation of a data center migration for a healthcare analytics company. Ran daily standups with CEO and CTO as well as weekly reviews with parent company's IT leadership to **salvage the project from behind schedule** and finish in four weeks. **Built and installed all new infrastructure** in the new colocation including VMware cluster, Dell storage array, and Cisco switch stack. **Designed network segmentation** for future-state systems. **Planned and led production cutover** to new systems. Concurrently, I **seperated all user systems from parent company** by executing Active Directory, network, DNS, VPN, and VOIP migrations while also hiring and training a Sysadmin.  
  * Cloud advisory
  * Security tools
  * Sealab
