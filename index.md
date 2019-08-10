@@ -29,15 +29,15 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
  * Awarded the west coast offices' **Consultant of the Year** and selected for a **mentorship program** with executive leadership
  * Created two year migration roadmap for leading credit union by **partnering with IT and business leadership**. Implemented custom migration pipeline to satisfy security, audit, and risk requirements resulting in a five-epic scrum template. **Developed future-state architecture** and business continuity designs for more than 50 applications. **Led as many as 15 concurrent application teams** of up to 10 dedicated consulting and client resources to migrate applications from on-premises locations to a **hybrid of Azure regions and colocations**. Culminated in leading **more than 60 resources** through the migration of 15 core banking applications in a single weekend with no critical incidents
  * Executed all requirements gathering, design, and implementation of a data center migration for a healthcare analytics company. **Salvaged the project from behind schedule** and finished in four weeks. **Built and installed all infrastructure** in the new colocation including VMware cluster, Dell storage array, and Cisco switch stack. **Designed network segmentation** for future-state systems. **Planned and led production cutover** to new systems. Concurrently **seperated all user systems from parent company** by executing Active Directory, network, DNS, VPN, and VOIP migrations while also hiring and training a Sysadmin
- * Developed custom analysis tool to determine the appropriate hosting model for an application given its technical, risk, and cost factors, then rank the results to report risk and reward. Employed tool against over 50 applications and 5 clients  
- * Evaluated 15 information security tools on their inherent effectiveness and current implementations for the CISO at a leading healthcare insurer
- * Built and configured a lab environment for the west coast offices comprised of servers, switches, and firewall with extended connectivity to networks in Azure and AWS. Led POCs for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery  
+ * Developed custom analysis tool to determine the appropriate hosting model for an application given its technical, risk, and cost factors, then rank the results to report risk and reward. Successfully employed tool against over 50 applications and 5 clients   
+ * Evaluated 12 information security tools on their inherent effectiveness and current implementations for a leading healthcare insurer
+ * Built and configured a lab environment with connectivity to networks in Azure and AWS. Led POCs for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery  
 
 **Network and System Administrator**,  Safety Services Company,  Tempe AZ,  Apr 2013 - Sept 2014
 
  * Managed NOC hardware relocation and datacenter rack reconstruction to improve disaster recovery
  * Implemented VMware ESXi/vCenter and expanded SAN storage to accommodate growth while cutting costs
- * Security and systems administrator of Active Directory, Exchange, Dynamics Great Plains, SharePoint, Lync, and user provisioning in a multiple domain network
+ * Administered Active Directory, Exchange, Dynamics Great Plains, SharePoint, Lync, and user provisioning in a multiple domain network
  * Trained and led a team of three desktop support technicians with a high end user/technician ratio 
  * Implemented and documented SOP for all desktop support issues including escalation 
  * Orchestrated enterprise reimage of desktops to standardize and ease administration
