@@ -24,9 +24,9 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <span style="font-family:Didot; font-size:2em;">Experience</span><br />
 
-**Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
-
-*As a Senior Consultant for a mid-size business and technical consulting firm, responsible for XXX and leading teams of technical experts in technical and strategic consulting engagements.*
+### **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
+ 
+As a senior consultant at a mid-size business and technical consulting firm, I was responsible for the execution of technical and strategic consulting engagements. 
 
  * Awarded the west coast offices' Consultant of the Year and selected for a mentorship program with executive leadership
  * Created two year migration roadmap for leading credit union by partnering with IT and business leadership. Implemented custom migration pipeline to satisfy security, audit, and risk requirements resulting in a five-epic scrum template. Developed future-state architecture and business continuity designs for more than 50 applications. Led as many as 15 concurrent application teams of up to 10 dedicated consulting and client resources to migrate applications from on-premises locations to a hybrid of Azure regions and colocations. Culminated in leading more than 60 resources through the migration of 15 core banking applications in a single weekend with no critical incidents
