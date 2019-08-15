@@ -24,8 +24,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <span style="font-family:Didot; font-size:2em;">Experience</span><br />
 
-#### **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
- 
+**Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
 As a senior consultant at a mid-size business and technical consulting firm, I was responsible for executing technical and strategic infrastructure focused consulting engagements and promoting growth and mentorship within my team.
 
  * Awarded the west coast offices' Consultant of the Year and selected for a mentorship program with executive leadership
@@ -35,8 +34,7 @@ As a senior consultant at a mid-size business and technical consulting firm, I w
  * Evaluated 12 information security tools on their inherent effectiveness and current implementations for a leading healthcare insurer
  * Built and configured a lab environment with connectivity to networks in Azure and AWS. Led POCs for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery  
 
-#### **Network and System Administrator**,  Safety Services Company,  Tempe AZ,  Apr 2013 - Sept 2014
-
+**Network and System Administrator**,  Safety Services Company,  Tempe AZ,  Apr 2013 - Sept 2014
 The nation’s largest provider of safety training materials. Its outbound sales centers span an enterprise of two main offices and five satellite locations with 500+ users in an Inc. 5000 fastest growing business environment.
 
  * Managed NOC hardware relocation and datacenter rack reconstruction to improve disaster recovery
@@ -60,7 +58,7 @@ The nation’s largest provider of safety training materials. Its outbound sales
 
 <br /><br /><span style="font-family:Didot; font-size:2em;">Education</span><br />
 
-#### **Arizona State University**,  Graduated 2012
+**Arizona State University**,  Graduated 2012
  * Bachelor of Arts, Philosophy
  * Certificate, Ethics
  * Certificate, Symbolic Systems
