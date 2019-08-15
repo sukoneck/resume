@@ -42,7 +42,7 @@ The primary sysadmin for the nation’s largest provider of safety training mate
 
  * Trained and led a team of three desktop support technicians with a high end user/technician ratio 
  * Managed NOC hardware relocation and datacenter rack reconstruction to improve disaster recovery
- * Implemented VMware ESXi/vCenter and expanded SAN storage to accommodate growth while cutting costs
+ * Implemented VMware ESXi with vCenter and expanded SAN storage to accommodate growth while cutting costs
  * Administered Active Directory, Exchange, Dynamics, SharePoint, Lync, and user provisioning in a multiple domain network
  * Implemented and documented SOP for all desktop support issues including escalation 
  * Orchestrated enterprise reimage of desktops to standardize and ease administration
