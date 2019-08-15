@@ -34,7 +34,7 @@ As a senior consultant at a mid-size business and technical consulting firm, I w
  * Formally appointed mentor of five junior resources with a focus on career progression, technical development, and professional growth. Conducted more than twenty formal reviews and provided continous feedback to project team members     
  * Informed cloud strategies for over 50 applications and 5 clients by developing a custom analysis tool to determine the appropriate hosting model for an application given its architectural, risk, and cost factors, then rank the results to report risk and reward
  * Provided actionable recommendations to improve the security posture of a leading healthcare insurer by evaluating 12 information security tools on their inherent effectiveness and current implementations  
- * Built and configured a lab environment with connectivity to networks in Azure and AWS. Expanded team capabilities by spearheading proof of concepts for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery  
+ * Expanded team capabilities by spearheading proof of concepts for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery. Built and configured a lab environment with connectivity to networks in Azure and AWS
 
 **Network and System Administrator**,  Safety Services Company,  Tempe AZ,  Apr 2013 - Sept 2014
 
