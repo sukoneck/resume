@@ -29,8 +29,9 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 As a senior consultant at a mid-size business and technical consulting firm, I was responsible for executing technical and strategic infrastructure focused consulting engagements and promoting the growth and mentorship of my team.
 
  * Awarded the west coast offices' Consultant of the Year and selected for a mentorship program with executive leadership
- * Created two year migration roadmap for leading credit union by partnering with IT and business leadership. Implemented custom migration pipeline to satisfy security, audit, and risk requirements resulting in a five-epic scrum template. Developed future-state architecture and business continuity designs for more than 50 applications. Led as many as 15 concurrent application teams of up to 10 dedicated consulting and client resources to migrate applications from on-premises locations to a hybrid of Azure regions and colocations. Culminated in leading more than 60 resources through the migration of 15 core banking applications in a single weekend with no critical incidents
+ * Helped a leading financial institution develop and execute their cloud strategy by creating a two-year migration roadmap with partnering from IT and business leadership. Satisfied security, audit, and risk requirements by implementing custom migration pipeline and five-epic scrum template. Developed future-state architecture and business continuity designs for more than 50 applications. Led as many as 15 concurrent application teams, each with up to 10 dedicated consulting and client resources, to migrate applications from on-premises data centers to a hybrid of Azure regions and colocations. Culminated in leading more than 60 resources through the migration of 15 core banking applications in a single weekend with no critical incidents
  * Executed all requirements gathering, design, and implementation of a data center migration for a healthcare analytics company. Salvaged the project from behind schedule and finished in four weeks. Built and installed all infrastructure in the new colocation including VMware cluster, Dell storage array, and Cisco switch stack. Designed network segmentation for future-state systems. Planned and led production cutover to new systems. Concurrently seperated all user systems from parent company by executing Active Directory, network, DNS, VPN, and VOIP migrations while also hiring and training a Sysadmin
+ * Formally appointed mentor to five junior resources with a focus on career progression, technical development, and professional growth. Conducted more than twenty formal reviews and provided continous feedback to project team members     
  * Developed custom analysis tool to determine the appropriate hosting model for an application given its technical, risk, and cost factors, then rank the results to report risk and reward. Successfully employed tool against over 50 applications and 5 clients   
  * Evaluated 12 information security tools on their inherent effectiveness and current implementations for a leading healthcare insurer
  * Built and configured a lab environment with connectivity to networks in Azure and AWS. Led POCs for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery  
@@ -39,17 +40,17 @@ As a senior consultant at a mid-size business and technical consulting firm, I w
 
 The nation’s largest provider of safety training materials. Its outbound sales centers span an enterprise of two main offices and five satellite locations with 500+ users in an Inc. 5000 fastest growing business environment.
 
+ * Trained and led a team of three desktop support technicians with a high end user/technician ratio 
  * Managed NOC hardware relocation and datacenter rack reconstruction to improve disaster recovery
  * Implemented VMware ESXi/vCenter and expanded SAN storage to accommodate growth while cutting costs
  * Administered Active Directory, Exchange, Dynamics, SharePoint, Lync, and user provisioning in a multiple domain network
- * Trained and led a team of three desktop support technicians with a high end user/technician ratio 
  * Implemented and documented SOP for all desktop support issues including escalation 
  * Orchestrated enterprise reimage of desktops to standardize and ease administration
  * Instigated and managed rollout of roaming profiles for mobile users
 
 <!-- PROJECTS AND CERTS -->
 
-<br /><br /><span style="font-family:Didot; font-size:2em;">Projects and Certifications</span><br />
+<br /><span style="font-family:Didot; font-size:2em;">Projects and Certifications</span><br />
 
  * I built a POC CI/CD pipeline that uses fun technologies like Azure DevOps and Docker (<a href="https://project.sukoneck.com" target="_blank">Details</a>) 
  * Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure (<a href="https://www.youracclaim.com/badges/5be9a88b-9ca7-4271-b819-1a22ec7c3ed2/public_url" target="_blank">MCSE</a>) 
@@ -58,7 +59,7 @@ The nation’s largest provider of safety training materials. Its outbound sales
 
 <!-- EDUCATION -->
 
-<br /><br /><span style="font-family:Didot; font-size:2em;">Education</span><br />
+<br /><span style="font-family:Didot; font-size:2em;">Education</span><br />
 
 **Arizona State University**,  Graduated 2012
  * Bachelor of Arts, Philosophy
