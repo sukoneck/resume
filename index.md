@@ -16,13 +16,24 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <br /><br />
 <p class="summary">
-   I am a creative cloud and infrastructure practitioner whose burgeoning passion for DevOps, SRE, and improving user experiences rivals my passion for team building, culture, and leadership. I have had great opportunities to lead large, constrained, and impactful projects with diverse teams to meet some of the most discerning business needs.
+   I am a creative cloud and infrastructure practitioner whose passion for DevOps, SRE, and improving user experiences rivals my passion for team building, culture, and leadership. I have had great opportunities to lead large, constrained, and impactful projects with diverse teams to meet some of the most discerning business needs.
 </p>
 <br />
 
 <!-- EXPERIENCE -->
 
 <span style="font-family:Didot; font-size:2em;">Experience</span><br />
+
+<!-- **DevOps Engineer**,  Grand Canyon Education,  Phoenix AZ,  Nov 2019 - Present
+
+Automation and platform development for a leading higher education managed services provider
+
+ * AWS IAM and account strategy and implemented using Terraform and ADO  
+ * Puppet architecture 
+ * IT PMO greenfield
+ * Work tracking ADO Boards
+ * Lead PM, contribute architecture, and contribute dev for app in Node, Dynamo, PowerAutomate, ADO, AZA, Terraform, AWS
+ *  -->
 
 **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
 
