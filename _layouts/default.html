@@ -6,6 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Daniel Sukoneck's Resume</title>
     <style>
+      .theme {
+        background-color: #272727;
+        color: white;
+        opacity: 0.9;
+      }
       a:link, a:visited {
         color: black;
         background-color: lightslategrey;
@@ -101,6 +106,12 @@
     <meta property="og:image" content="https://resume.sukoneck.com/faviconlink.png">
   </head>
   <body>
+    <script>
+      function theme() {
+         var element = document.body;
+         element.classList.toggle("theme");
+      }
+    </script>
     <div class="markdown-body">
 
       {{ content }}
