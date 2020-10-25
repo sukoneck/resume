@@ -6,6 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Daniel Sukoneck's Resume</title>
     <style>
+      .markdown-body {
+        color: text-gray-light; 
+        background-color: bg-gray-dark;
+      }
+      .markdown-body::before {
+        color: text-gray-light; 
+        background-color: bg-gray-dark;
+      }
       a:link, a:visited {
         color: Black;
         background-color: PowderBlue;
@@ -62,7 +70,7 @@
     <meta property="og:image" content="https://resume.sukoneck.com/faviconlink.png">
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body text-gray-light bg-gray-dark">
+    <div class="container-lg px-3 my-5 markdown-body">
 
       {{ content }}
 
