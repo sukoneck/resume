@@ -22,7 +22,8 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <!-- EXPERIENCE -->
 
-<span style="font-family:Didot; font-size:2em;">Experience</span><br />
+<!-- <span style="font-family:Didot; font-size:2em;">Experience</span><br /> -->
+<p class="head">Experience</p>
 
 <!-- **DevOps Engineer**,  Grand Canyon Education,  Phoenix AZ,  Nov 2019 - Present
 
