@@ -16,16 +16,16 @@
         background-color: CadetBlue;
         text-decoration: none;
       } 
+      body {
+        color: #24292e;
+        background: White;
+      }
       p.summary {
         margin: 0px 20px;
         text-align: center;
         font-size: large;
       }
       @media (prefers-color-scheme: dark) {
-        body {
-          color: Snow;
-          background: Black;
-        }
         a:link, a:visited {
           color: Snow;
           background-color: PowderBlue;
@@ -36,6 +36,10 @@
           background-color: CadetBlue;
           text-decoration: none;
         } 
+        body {
+          color: Snow;
+          background: Black;
+        }
       }
     </style>
     {% seo title=false %}
