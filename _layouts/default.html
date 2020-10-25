@@ -15,11 +15,27 @@
         color: Black;
         background-color: CadetBlue;
         text-decoration: none;
-      }
+      } 
       p.summary {
         margin: 0px 20px;
         text-align: center;
         font-size: large;
+      }
+      @media (prefers-color-scheme: dark) {
+        body {
+          color: Snow;
+          background: Black;
+        }
+        a:link, a:visited {
+          color: Snow;
+          background-color: PowderBlue;
+          text-decoration: underline;
+        }
+        a:hover, a:active {
+          color: Snow;
+          background-color: CadetBlue;
+          text-decoration: none;
+        } 
       }
     </style>
     {% seo title=false %}
