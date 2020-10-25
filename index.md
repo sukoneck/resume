@@ -80,5 +80,5 @@ The primary sysadmin for the nation’s largest provider of safety training mate
 <!-- FOOTER -->
 
 <footer>
-   <br /><br /><br /><br /><center>daniel@sukoneck.com<br /><small>Arizona, USA</small></center><br />
+   <br /><br /><br /><br /><center>daniel@sukoneck.com<br /><small>USA/NZ</small></center><br />
 </footer>
