@@ -18,7 +18,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <!-- EXPERIENCE -->
 
-<p class="head">Experience</p>
+<p class="section">Experience</p>
 
 <!-- **DevOps Engineer**,  Grand Canyon Education,  Phoenix AZ,  Nov 2019 - Present -->
 **DevOps Engineer**,  Grand Canyon Education,  2019 - Present
@@ -60,7 +60,7 @@ The primary sysadmin for the nation’s largest provider of safety training mate
 
 <!-- PROJECTS AND CERTS -->
 
-<p class="head">Certifications</p>
+<p class="section">Certifications</p>
 
 <!-- * I built a CI/CD pipeline that uses fun technologies like Azure DevOps and Docker (<a href="https://pipeline.sukoneck.com" target="_blank">Details</a>) -->
  * Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure <a href="https://www.youracclaim.com/badges/5be9a88b-9ca7-4271-b819-1a22ec7c3ed2/public_url" target="_blank">MCSE</a>
@@ -69,7 +69,7 @@ The primary sysadmin for the nation’s largest provider of safety training mate
 
 <!-- EDUCATION -->
 
-<p class="head">Education</p>
+<p class="section">Education</p>
 
 **Arizona State University**,  Graduated 2012
  * Bachelor of Arts, Philosophy
