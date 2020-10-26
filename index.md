@@ -20,7 +20,8 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <p class="head">Experience</p>
 
-**DevOps Engineer**,  Grand Canyon Education,  Phoenix AZ,  Nov 2019 - Present
+<!-- **DevOps Engineer**,  Grand Canyon Education,  Phoenix AZ,  Nov 2019 - Present -->
+**DevOps Engineer**,  Grand Canyon Education,  2019 - Present
 
 <!-- Automation and platform development for a leading higher education managed services provider.
 
@@ -31,7 +32,8 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
  * Lead PM, contribute architecture, and contribute dev for custom self-service app used by all depts in Node, Dynamo, PowerAutomate, ADO, AZA, Terraform, AWS
  *  -->
 
-**Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
+<!-- **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019 -->
+**Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  2014 - 2019
 
 As a senior consultant at a mid-size business and technical consulting firm, I was responsible for executing technical and strategic infrastructure focused consulting engagements and promoting the growth and mentorship of my team.
 
@@ -43,7 +45,8 @@ As a senior consultant at a mid-size business and technical consulting firm, I w
  * Provided actionable recommendations to improve the security posture of a leading healthcare insurer by evaluating 12 information security tools on their inherent effectiveness and current implementations  
  * Expanded team capabilities by spearheading proof of concepts for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery. Helped design and build a physical lab environment with connectivity to networks in Azure and AWS
 
-**Network and System Administrator**,  Safety Services Company,  Tempe AZ,  Apr 2013 - Sept 2014
+<!-- **Network and System Administrator**,  Safety Services Company,  Tempe AZ,  Apr 2013 - Sept 2014 -->
+**Network and System Administrator**,  Safety Services Company,  2013 - 2014
 
 The primary sysadmin for the nation’s largest provider of safety training materials. Its outbound sales centers span an enterprise of two main offices and five satellite locations with 500+ users in an Inc. 5000 fastest growing business environment.
 
