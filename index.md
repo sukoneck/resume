@@ -20,10 +20,9 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <p class="section">Experience</p>
 
-<!-- **DevOps Engineer**,  Grand Canyon Education,  Phoenix AZ,  Nov 2019 - Present -->
 **DevOps Engineer**,  Grand Canyon Education,  2019 - Present
 
-<!-- Automation and platform development for a leading higher education managed services provider.
+<!-- Automation and platform development for a leading higher education managed services provider.  
 
  * AWS IAM and account strategy and implemented using Terraform and ADO  
  * Puppet custom architecture and cicd 
@@ -32,7 +31,6 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
  * Lead PM, contribute architecture, and contribute dev for custom self-service app used by all depts in Node, Dynamo, PowerAutomate, ADO, AZA, Terraform, AWS
  *  -->
 
-<!-- **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019 -->
 **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  2014 - 2019
 
 As a senior consultant at a mid-size business and technical consulting firm, I was responsible for executing technical and strategic infrastructure focused consulting engagements and promoting the growth and mentorship of my team.
@@ -45,7 +43,6 @@ As a senior consultant at a mid-size business and technical consulting firm, I w
  * Provided actionable recommendations to improve the security posture of a leading healthcare insurer by evaluating 12 information security tools on their inherent effectiveness and current implementations  
  * Expanded team capabilities by spearheading proof of concepts for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery. Helped design and build a physical lab environment with connectivity to networks in Azure and AWS
 
-<!-- **Network and System Administrator**,  Safety Services Company,  Tempe AZ,  Apr 2013 - Sept 2014 -->
 **Network and System Administrator**,  Safety Services Company,  2013 - 2014
 
 The primary sysadmin for the nation’s largest provider of safety training materials. Its outbound sales centers span an enterprise of two main offices and five satellite locations with 500+ users in an Inc. 5000 fastest growing business environment.
@@ -62,7 +59,6 @@ The primary sysadmin for the nation’s largest provider of safety training mate
 
 <p class="section">Certifications</p>
 
-<!-- * I built a CI/CD pipeline that uses fun technologies like Azure DevOps and Docker (<a href="https://pipeline.sukoneck.com" target="_blank">Details</a>) -->
  * Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure <a href="https://www.youracclaim.com/badges/5be9a88b-9ca7-4271-b819-1a22ec7c3ed2/public_url" target="_blank">MCSE</a>
  * Microsoft Certified Solutions Associate: Windows Server 2012 <a href="https://www.youracclaim.com/badges/b9f23041-35f5-429e-a10b-69fc4fcd4765/public_url" target="_blank">MCSA</a> 
  * Cisco Certified Network Associate <a href="https://www.youracclaim.com/badges/54a8a8a7-9309-4cef-9ae5-beffef77e117/public_url" target="_blank">CCNA</a>
