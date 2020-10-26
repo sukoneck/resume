@@ -8,7 +8,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <!-- HEADER -->
 
-<br /><center><span style="font-family:Didot; font-size:2.5em;">Daniel Sukoneck</span></center>
+<p class="name">Daniel Sukoneck</p>
 
 <center><span style="font-family:Didot; font-size:1.5em;"><a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:daniel@sukoneck.com">Email</a></span></center>
 
