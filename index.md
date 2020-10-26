@@ -78,4 +78,4 @@ The primary sysadmin for the nation’s largest provider of safety training mate
 <!-- FOOTER -->
 
 <footer>daniel@sukoneck.com</footer>
-<a href="" onclick="return theme();">Switch Theme</a>
+<button onclick="theme()">Theme</button>
