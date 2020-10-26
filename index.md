@@ -21,16 +21,15 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 <p class="head">Experience</p>
 
 **DevOps Engineer**,  Grand Canyon Education,  Phoenix AZ,  Nov 2019 - Present
-<!--
-Automation and platform development for a leading higher education managed services provider.
+
+<!-- Automation and platform development for a leading higher education managed services provider.
 
  * AWS IAM and account strategy and implemented using Terraform and ADO  
  * Puppet custom architecture and cicd 
  * IT PMO greenfield 
  * Custom work tracking ADO Boards for multiple infrastructure (non-dev) teams 
  * Lead PM, contribute architecture, and contribute dev for custom self-service app used by all depts in Node, Dynamo, PowerAutomate, ADO, AZA, Terraform, AWS
- *  
--->
+ *  -->
 
 **Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  Seattle WA,  Sept 2014 - June 2019
 
