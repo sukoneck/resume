@@ -6,20 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Daniel Sukoneck's Resume</title>
     <style>
-      .theme {
-        background-color: #272727;
-        color: white;
+      .testTheme {
+        background-color: snow;
+        color: black;
         opacity: 0.9;
       }
-      a:link, a:visited {
+      a {
         color: black;
-        background-color: lightslategrey;
         text-decoration: none;
       }
+      a:link, a:visited {
+        background-color: lightslategrey;
+      }
       a:hover, a:active {
-        color: black;
         background-color: slategrey;
-        text-decoration: none;
       }
       body {
         background-color: #272727 !important;
@@ -72,12 +72,14 @@
     <meta property="og:image" content="https://resume.sukoneck.com/faviconlink.png">
   </head>
   <body>
+  <!--
     <script>
       function theme() {
          var element = document.body;
          element.classList.toggle("theme");
       }
     </script>
+  -->
     <div class="markdown-body">
 
       {{ content }}
