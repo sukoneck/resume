@@ -20,7 +20,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <p class="section">Experience</p>
 
-<p class="job">DevOps Engineer,  Grand Canyon Education,  2019 - Present</p>
+<p class="job"><b>DevOps Engineer</b>,  Grand Canyon Education,  2019 - Present</p>
 
 Automation and platform development for a leading higher education managed services provider.  
 
@@ -32,7 +32,7 @@ Automation and platform development for a leading higher education managed servi
  * Lead PM, contribute architecture, and contribute dev for custom self-service app used by all depts in Node, Dynamo, PowerAutomate, ADO, AZA, Terraform, AWS
  *  -->
 <br>
-<p class="job">Senior Cloud and Infrastructure Consultant,  West Monroe Partners,  2014 - 2019</p>
+<p class="job"><b>Senior Cloud and Infrastructure Consultant</b>,  West Monroe Partners,  2014 - 2019</p>
 
 As a senior consultant at a mid-size business and technical consulting firm, I was responsible for executing technical and strategic infrastructure focused consulting engagements and promoting the growth and mentorship of my team.
 
@@ -45,7 +45,7 @@ As a senior consultant at a mid-size business and technical consulting firm, I w
  * Expanded team capabilities by spearheading proof of concepts for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery. Helped design and build a physical lab environment with connectivity to networks in Azure and AWS<br>
 
 <br>
-<p class="job">Network and System Administrator,  Safety Services Company,  2013 - 2014</p>
+<p class="job"><b>Network and System Administrator</b>,  Safety Services Company,  2013 - 2014</p>
 
 The primary sysadmin for the nation’s largest provider of safety training materials. Its outbound sales centers span an enterprise of two main offices and five satellite locations with 500+ users in an Inc. 5000 fastest growing business environment.
 
