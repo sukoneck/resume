@@ -20,7 +20,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <p class="section">Experience</p>
 
-**DevOps Engineer**,  Grand Canyon Education,  2019 - Present
+<p class="job">**DevOps Engineer**,  Grand Canyon Education,  2019 - Present</p>
 
 Automation and platform development for a leading higher education managed services provider.  
 
@@ -32,7 +32,7 @@ Automation and platform development for a leading higher education managed servi
  * Lead PM, contribute architecture, and contribute dev for custom self-service app used by all depts in Node, Dynamo, PowerAutomate, ADO, AZA, Terraform, AWS
  *  -->
 
-**Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  2014 - 2019
+<p class="job">**Senior Cloud and Infrastructure Consultant**,  West Monroe Partners,  2014 - 2019</p>
 
 As a senior consultant at a mid-size business and technical consulting firm, I was responsible for executing technical and strategic infrastructure focused consulting engagements and promoting the growth and mentorship of my team.
 
@@ -44,7 +44,7 @@ As a senior consultant at a mid-size business and technical consulting firm, I w
  * Provided actionable recommendations to improve the security posture of a leading healthcare insurer by evaluating 12 information security tools on their inherent effectiveness and current implementations  
  * Expanded team capabilities by spearheading proof of concepts for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery. Helped design and build a physical lab environment with connectivity to networks in Azure and AWS
 
-**Network and System Administrator**,  Safety Services Company,  2013 - 2014
+<p class="job">**Network and System Administrator**,  Safety Services Company,  2013 - 2014</p>
 
 The primary sysadmin for the nation’s largest provider of safety training materials. Its outbound sales centers span an enterprise of two main offices and five satellite locations with 500+ users in an Inc. 5000 fastest growing business environment.
 
