@@ -20,7 +20,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <p class="section">Experience</p>
 
-<p class="job"><b>DevOps Engineer</b>,  Grand Canyon Education,  2019 - Present</p>
+<p class="job-padless"><b>DevOps Engineer</b>,  Grand Canyon Education,  2019 - Present</p>
 
 Automation and platform development for a leading higher education managed services provider.  
 
@@ -70,7 +70,7 @@ The primary sysadmin for the nation’s largest provider of safety training mate
 
 <p class="section">Education</p>
 
-**Arizona State University**,  Graduated 2012
+<p class="job-padless"><b>Arizona State University</b>,  Graduated 2012</p>
  * Bachelor of Arts, Philosophy
  * Certificate, Ethics
  * Certificate, Symbolic Systems
