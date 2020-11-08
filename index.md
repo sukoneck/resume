@@ -30,7 +30,7 @@ Automation and platform development for a leading higher education managed servi
  * IT PMO greenfield 
  * Custom work tracking ADO Boards for multiple infrastructure (non-dev) teams 
  * Lead PM, contribute architecture, and contribute dev for custom self-service app used by all depts in Node, Dynamo, PowerAutomate, ADO, AZA, Terraform, AWS
- *  -->
+ *  --><br><br>
 
 <p class="job">Senior Cloud and Infrastructure Consultant,  West Monroe Partners,  2014 - 2019</p>
 
