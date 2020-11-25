@@ -10,7 +10,7 @@ Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is lic
 
 <p class="name">Daniel Sukoneck</p>
 
-<p class="links"><a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:daniel@sukoneck.com">Email</a></p> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://resume.sukoneck.com/Daniel-Sukoneck-Resume.pdf">PDF</a></p>
+<p class="links"><a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:daniel@sukoneck.com">Email</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://resume.sukoneck.com/Daniel-Sukoneck-Resume.pdf">PDF</a></p>
 
 <!-- SUMMARY -->
 
