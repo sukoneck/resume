@@ -1,6 +1,6 @@
 ### [Daniel Sukoneck's Resume](https://resume.sukoneck.com)
 
-This static website was built using a fun mix of HTML, CSS, Markdown, and some GitHub-behind-the-scenes Jekyll. Source code and content is hosted on GitHub (here) and presented via GitHub Pages' default theme, Primer. DNS, HTTPS, and edge cache are served by Cloudflare.
+This static website was built using a fun mix of HTML, CSS, Markdown, and some GitHub-behind-the-scenes Jekyll. Source code and content is hosted on GitHub (here) and presented via GitHub Pages' default theme, Primer. DNS, HTTPS, and edge cache are served by Cloudflare. 
 
 Below are references for some of the resources that I used to build this site:
  1. Source hosted [here](https://www.github.com/sukoneck/resume) is presented via [GitHub Pages](https://help.github.com/en/articles/what-is-github-pages) 
