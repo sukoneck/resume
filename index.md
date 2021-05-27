@@ -24,13 +24,13 @@ Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-b
 
 <p class="job-padless"><b>Lead DevOps Engineer</b>,  Grand Canyon Education,  2019 - Present</p>
 
-Leader of a team of five engineers in platform development and process automation for a leading higher education managed services provider.  
+Leader of a team of five engineers doing platform development and process automation using tools primarily from Hashi, AWS, and Azure for a leading higher education managed services provider. 
 
  * Developed a global AWS identity and account strategy. Wrote Terraform that managed all resources while also being modular and accessible enough for non-Terraform users to use. Built pipelines to enable self-service workflows. Created designs for the same in Azure
  * Rebuilt and transitioned work-tracking boards, backlogs, and processes for multiple teams 
  * Managed architecture and feature development for ELK logging 
  * Lead the initial phases of creating an IT program management office 
- * Created pipelines to support custom self-service Puppet architecture<br>
+ * Built pipelines to support custom self-service Puppet architecture<br>
 
 
 <p class="job"><b>Senior Cloud and Infrastructure Consultant</b>,  West Monroe Partners,  2014 - 2019</p>
