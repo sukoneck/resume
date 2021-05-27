@@ -12,7 +12,7 @@ Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-b
 
 <p class="name">Daniel Sukoneck</p>
 
-<p class="links"><a href="https://linktr.ee/sukoneck" target="_blank">linktr.ee</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/sukoneck" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a></p>
+<p class="links"><a href="https://linktr.ee/sukoneck" target="_blank">Linktr.ee</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.sukoneck.com" target="_blank">PDF</a></p>
 
 <!-- SUMMARY -->
 
