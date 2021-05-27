@@ -4,33 +4,34 @@ Source code at github.com/sukoneck/resume is presented via pages.github.com
 Site template by www.monique.tech/the-art-of-markdown
 
 Favicon made by www.flaticon.com/authors/smashicons from www.flaticon.com is licensed by creativecommons.org/licenses/by/3.0
+
+Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark
 -->
 
 <!-- HEADER -->
 
 <p class="name">Daniel Sukoneck</p>
 
-<p class="links"><a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:daniel@sukoneck.com">Email</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://resume.sukoneck.com/Daniel-Sukoneck-Resume.pdf" target="_blank">PDF</a></p>
+<p class="links"><a href="https://linktr.ee/sukoneck" target="_blank">linktr.ee</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/sukoneck" target="_blank">GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a></p>
 
 <!-- SUMMARY -->
 
-<p class="summary">I am a creative cloud and infrastructure practitioner whose passion for DevOps, SRE, and improving user experiences rivals my passion for team building, culture, and leadership. I have had great opportunities to lead large, constrained, and impactful projects with diverse teams to meet some of the most discerning business needs.</p>
+<p class="summary">I am a creative devops practitioner whose passion for Web3, automation, and improving user experiences rivals my passion for innovation, team building, and leadership. I have had great opportunities to lead large, constrained, and impactful projects with diverse teams to meet some of the most discerning needs.</p>
 
 <!-- EXPERIENCE -->
 
 <p class="section">Experience</p>
 
-<p class="job-padless"><b>DevOps Engineer</b>,  Grand Canyon Education,  2019 - Present</p>
+<p class="job-padless"><b>Lead DevOps Engineer</b>,  Grand Canyon Education,  2019 - Present</p>
 
-Automation and platform development for a leading higher education managed services provider.  
+Leader of a team of five engineers in platform development and process automation for a leading higher education managed services provider.  
 
-<!-- 
- * AWS IAM and account strategy and implemented using Terraform and ADO  
- * Puppet custom architecture and cicd 
- * IT PMO greenfield 
- * Custom work tracking ADO Boards for multiple infrastructure (non-dev) teams 
- * Lead PM, contribute architecture, and contribute dev for custom self-service app used by all depts in Node, Dynamo, PowerAutomate, ADO, AZA, Terraform, AWS
- *  -->
+ * Developed a global AWS identity and account strategy. Wrote Terraform that managed all resources while also being modular and accessible enough for non-Terraform users to use. Built pipelines to enable self-service workflows. Created designs for the same in Azure
+ * Rebuilt and transitioned work-tracking boards, backlogs, and processes for multiple teams 
+ * Managed architecture and feature development for ELK logging 
+ * Lead the initial phases of creating an IT program management office 
+ * Created pipelines to support custom self-service Puppet architecture<br>
+
 
 <p class="job"><b>Senior Cloud and Infrastructure Consultant</b>,  West Monroe Partners,  2014 - 2019</p>
 
@@ -67,6 +68,7 @@ The primary sysadmin for the nation’s largest provider of safety training mate
  * Cisco Certified Network Associate <a href="https://www.youracclaim.com/badges/54a8a8a7-9309-4cef-9ae5-beffef77e117/public_url" target="_blank">CCNA</a>
  * Owner of and believer that everyone should <a href="http://feel.support" target="_blank">feel.support</a>
 
+
 <!-- EDUCATION -->
 
 <p class="section">Education</p>
@@ -78,6 +80,6 @@ The primary sysadmin for the nation’s largest provider of safety training mate
 
 <!-- FOOTER -->
 
-<footer>daniel@sukoneck.com</footer>
+<footer>daniel@sukoneck.com<br>sukoneck.eth</footer>
 
 <!-- <button onclick="theme()">Theme</button> -->

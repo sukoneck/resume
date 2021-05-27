@@ -6,3 +6,4 @@ Below are references for some of the resources that I used to build this site:
  1. Source hosted [here](https://www.github.com/sukoneck/resume) is presented via [GitHub Pages](https://help.github.com/en/articles/what-is-github-pages) 
  2. Site template by [Monique Nichols](https://www.monique.tech/the-art-of-markdown)
  3. Favicon by [Smash Icons](https://www.flaticon.com/authors/smashicons) from [Flaticon](https://www.flaticon.com) is licensed by [Creative Commons](https://www.creativecommons.org/licenses/by/3.0)
+ 4. Color theme by Umut Topuzoğlu's [Bluloco Dark Theme](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark)
