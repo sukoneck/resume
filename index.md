@@ -43,7 +43,7 @@ As a senior consultant at a business and technical consulting firm, I was respon
  * Formal mentor of five junior resources with a focus on career progression, technical development, and professional growth
  * Informed cloud strategies for multiple companies. Developed a tool to recommend app hosting models and report on risk and reward
  * Provided actionable recommendations to improve the security posture of a leading healthcare insurer by evaluating their security tools 
- * Expanded team capabilities by spearheading proof of concepts for container orchestrators and server migration tools.<br>
+ * Expanded team capabilities by spearheading proof of concepts for container orchestrators and server migration tools<br>
 
 <!-- 
  * Awarded the west coast offices' Consultant of the Year and selected for a mentorship program with executive leadership
