@@ -12,7 +12,7 @@ Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-b
 
 <p class="name">Daniel Sukoneck</p>
 
-<p class="links"><a href="https://linktr.ee/sukoneck" target="_blank">Linktr.ee</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.sukoneck.com" target="_blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://resume.sukoneck.com/Daniel-Sukoneck-Resume.pdf" target="_blank">PDF</a></p>
+<p class="links"><a href="https://linktr.ee/sukoneck" target="_blank">Linktr.ee</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sukoneck" target="_blank">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://resume.sukoneck.com/Daniel-Sukoneck-Resume.pdf" target="_blank">PDF</a></p>
 
 <!-- SUMMARY -->
 
@@ -69,12 +69,12 @@ The lead sysadmin for the nation’s largest provider of safety training materia
 
 <!-- PROJECTS AND CERTS -->
 
-<p class="section">Certifications</p>
+<p class="section">Certs, etc.</p>
 
  * HashiCorp Certified: Terraform Associate <a href="https://www.youracclaim.com/badges/5b4cdbf7-2744-477d-bb01-ff49f1c7b9f6/public_url" target="_blank">Terraform</a>
- * Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure <a href="https://www.youracclaim.com/badges/5be9a88b-9ca7-4271-b819-1a22ec7c3ed2/public_url" target="_blank">MCSE</a>
- * Microsoft Certified Solutions Associate: Windows Server 2012 <a href="https://www.youracclaim.com/badges/b9f23041-35f5-429e-a10b-69fc4fcd4765/public_url" target="_blank">MCSA</a> 
- * Cisco Certified Network Associate <a href="https://www.youracclaim.com/badges/54a8a8a7-9309-4cef-9ae5-beffef77e117/public_url" target="_blank">CCNA</a>
+  * Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure <a href="https://www.youracclaim.com/badges/5be9a88b-9ca7-4271-b819-1a22ec7c3ed2/public_url" target="_blank">MCSE</a>
+<!-- * Microsoft Certified Solutions Associate: Windows Server 2012 <a href="https://www.youracclaim.com/badges/b9f23041-35f5-429e-a10b-69fc4fcd4765/public_url" target="_blank">MCSA</a> 
+ * Cisco Certified Network Associate <a href="https://www.youracclaim.com/badges/54a8a8a7-9309-4cef-9ae5-beffef77e117/public_url" target="_blank">CCNA</a>  -->
  * Owner of and believer that everyone should <a href="http://feel.support" target="_blank">feel.support</a>
 
 
