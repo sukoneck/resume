@@ -22,7 +22,7 @@ Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-b
 
 <p class="section">Experience</p>
 
-<p class="job-padless"><b>Lead DevOps Engineer</b>,  Grand Canyon Education,  2019 - Present</p>
+<p class="job-padless"><b>Lead DevOps Engineer</b>,  Grand Canyon Education,  2019 - 2021</p>
 
 Leader of a team of five engineers doing platform development and process automation using tools primarily from Hashi, AWS, and Azure for a leading higher education managed services provider. 
 
