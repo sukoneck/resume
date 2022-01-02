@@ -16,7 +16,7 @@ Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-b
 
 <!-- SUMMARY -->
 
-<p class="summary">I am a creative devops practitioner whose passion for Web3, reliability, and improving user experiences rivals my passion for innovation, team building, and leadership. I have had great opportunities to lead large, constrained, and impactful projects with diverse teams to meet some of the most discerning needs.</p>
+<p class="summary">Great to meet you 🤝 I am a creative devops engineer that is passionate about leadership and building Web3. I have had great opportunities to lead large, constrained, and impactful projects with diverse teams. I care about people, art, and technology; in that order.</p>
 
 <!-- EXPERIENCE -->
 
@@ -38,12 +38,10 @@ Leader of a team of five engineers doing platform development and process automa
 As a senior consultant at a business and technical consulting firm, I was responsible for executing technical and strategic infrastructure focused consulting engagements and promoting the growth and mentorship of my team.
 
  * Helped a leading financial institution develop and execute their cloud strategy by creating a two-year migration roadmap. Developed architecture designs for 50+ applications. Led 15 concurrent application teams in migrations
- * Salvaged a behind-schedule data center migration for a healthcare analytics company. Built, planned, and led production cutover to new systems. Concurrently, carved out end-user systems from parent company and hired and trained a Sysadmin
+ * Rescued a behind-schedule data center migration for a healthcare analytics company. Built, planned, and led production cutover. Concurrently, carved out end-user systems from parent company and hired and trained a Sysadmin
  * Formal mentor of five junior resources with a focus on career progression, technical development, and professional growth
  * Informed cloud strategies for multiple companies. Developed a tool to recommend app hosting models and report on risk and reward
- * Provided actionable recommendations to improve the security posture of a leading healthcare insurer by evaluating their security tools 
- * Expanded team capabilities by spearheading proof of concepts for container orchestrators and server migration tools
- * Awarded the west coast Consultant of the Year and selected for a mentorship program with executive leadership<br>
+ * Provided actionable recommendations to improve the security posture of a leading healthcare insurer by evaluating their security tools <br>
 
 <!-- 
  * Awarded the west coast offices' Consultant of the Year and selected for a mentorship program with executive leadership
@@ -64,8 +62,7 @@ The lead sysadmin for the nation’s largest provider of safety training materia
  * Managed NOC hardware relocation and data center rack reconstruction to improve disaster recovery
  * Implemented VMware ESXi with vCenter and expanded SAN storage to accommodate growth while cutting costs
  * Administered Active Directory, Exchange, Dynamics, SharePoint, Lync, and user provisioning in a multiple domain network
- * Orchestrated enterprise reimage of desktops to standardize and ease administration
- * Instigated and managed rollout of roaming profiles for mobile users
+ * Orchestrated enterprise reimage of desktops and rollout of roaming profiles to standardize and ease administration
 
 <!-- PROJECTS AND CERTS -->
 
