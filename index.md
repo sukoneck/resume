@@ -16,7 +16,7 @@ Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-b
 
 <!-- SUMMARY -->
 
-<p class="summary">Great to meet you 🤝 I am a creative devops engineer that is passionate about leadership and building Web3. I have had great opportunities to lead large, constrained, and impactful projects with diverse teams. I care about people, art, and technology; in that order.</p>
+<p class="summary">Great to meet you 🤝 I am a creative devops engineer who is passionate about leadership and building Web3. I have had great opportunities to lead large, constrained, and impactful projects with diverse teams. I care about people, art, and technology; in that order.</p>
 
 <!-- EXPERIENCE -->
 
