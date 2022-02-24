@@ -12,7 +12,7 @@ Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-b
 
 <p class="name">Daniel Sukoneck</p>
 
-<p class="links"><a href="https://sukoneck.com" target="_blank">home</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/sukoneck" target="_blank">github</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://resume.sukoneck.com/Daniel-Sukoneck-Resume.pdf" target="_blank">pdf</a></p>
+<p class="links"><a href="https://sukoneck.com" target="_blank">home</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/sukoneck" target="_blank">github</a> <!-- &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://resume.sukoneck.com/Daniel-Sukoneck-Resume.pdf" target="_blank">pdf</a> --> </p> 
 
 <!-- SUMMARY -->
 
@@ -22,7 +22,11 @@ Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-b
 
 <p class="section">Experience</p>
 
-<p class="job-padless"><b>Lead DevOps Engineer</b>,  Grand Canyon Education,  2019 - 2021</p>
+<p class="job-padless"><b>DevOps</b>,  Flashbots,  2022 - present</p>
+
+Flashbots is a research and development organization working on mitigating the negative externalities of Maximal Extractable Value (MEV) extraction techniques and avoiding the existential risks MEV could cause to stateful blockchains like Ethereum. 
+
+<p class="job"><b>Lead DevOps Engineer</b>,  Grand Canyon Education,  2019 - 2021</p>
 
 Leader of a team of five engineers doing platform development and process automation using tools primarily from Hashi, AWS, and Azure for a leading higher education managed services provider. 
 
@@ -56,7 +60,7 @@ As a senior consultant at a business and technical consulting firm, I was respon
 
 <p class="job"><b>Network and System Administrator</b>,  Safety Services Company,  2013 - 2014</p>
 
-The lead sysadmin for the nation’s largest provider of safety training materials. Conprised of outbound sales centers spanning an enterprise of two main offices and five satellite locations with 500+ users in an Inc. 5000 fastest growing business environment.
+The lead sysadmin for the largest US provider of safety training materials. Conprised of outbound sales centers spanning an enterprise of two main offices and five satellite locations with 500+ users in an Inc. 5000 fastest growing business environment.
 
  * Trained and led a team of three desktop support technicians with a high end-user to technician ratio 
  * Managed NOC hardware relocation and data center rack reconstruction to improve disaster recovery
@@ -84,6 +88,6 @@ The lead sysadmin for the nation’s largest provider of safety training materia
 
 <!-- FOOTER -->
 
-<footer>daniel@sukoneck.com<br>sukoneck.eth</footer>
+<footer>daniel@sukoneck.com <!-- <br>sukoneck.eth --> </footer>
 
 <!-- <button onclick="theme()">Theme</button> -->
