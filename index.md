@@ -12,7 +12,7 @@ Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-b
 
 <p class="name">Daniel Sukoneck</p>
 
-<p class="links"><a href="https://sukoneck.com" target="_blank">home</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/sukoneck" target="_blank">github</a> <!-- &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://resume.sukoneck.com/Daniel-Sukoneck-Resume.pdf" target="_blank">pdf</a> --> </p> 
+<p class="links"><a href="https://github.com/sukoneck" target="_blank">github</a></p> 
 
 <!-- SUMMARY -->
 
@@ -24,7 +24,7 @@ Color theme by https://marketplace.visualstudio.com/items?itemName=uloco.theme-b
 
 <p class="job-padless"><b>DevOps</b>,  Flashbots,  2022 - present</p>
 
-Flashbots is a research and development organization working on mitigating the negative externalities of Maximal Extractable Value (MEV) extraction techniques and avoiding the existential risks MEV could cause to stateful blockchains like Ethereum. 
+Flashbots is a research and development organization formed to mitigate the negative externalities posed by Maximal Extractable Value (MEV) to stateful blockchains, starting with Ethereum.
 
 <p class="job"><b>Lead DevOps Engineer</b>,  Grand Canyon Education,  2019 - 2021</p>
 
@@ -46,17 +46,6 @@ As a senior consultant at a business and technical consulting firm, I was respon
  * Formal mentor of five junior resources with a focus on career progression, technical development, and professional growth
  * Informed cloud strategies for multiple companies. Developed a tool to recommend app hosting models and report on risk and reward
  * Provided actionable recommendations to improve the security posture of a leading healthcare insurer by evaluating their security tools <br>
-
-<!-- 
- * Awarded the west coast offices' Consultant of the Year and selected for a mentorship program with executive leadership
- * Helped a leading financial institution develop and execute their cloud strategy by creating a two-year migration roadmap with partnership from IT and business leadership. Satisfied security, audit, and risk requirements by implementing custom migration pipeline and five-epic scrum template. Developed future-state architecture and business continuity designs for more than 50 applications. Led as many as 15 concurrent application teams, each with up to 10 dedicated consulting and client resources, to migrate applications from on-premises data centers to a hybrid of Azure regions and colocations. Culminated in leading more than 60 resources through the migration of 15 core banking applications in a single weekend with no critical incidents
- * Salvaged a behind-schedule data center migration for a healthcare analytics company by finishing all requirements gathering, design, and implementation within four weeks. Built and installed all infrastructure in the new colocation including VMware cluster, Dell storage array, and Cisco switch stack. Designed network segmentation for future-state systems. Planned and led production cutover to new systems. Concurrently, separated all user systems from parent company by executing Active Directory, network, DNS, VPN, and VOIP migrations while also hiring and training a Sysadmin
- * Formal mentor of five junior resources with a focus on career progression, technical development, and professional growth. Conducted more than twenty formal reviews and provided continuous feedback to project team members     
- * Informed cloud strategies for over 50 applications and 5 clients by developing a custom analysis tool to determine the appropriate hosting model for an application given its architectural, risk, and cost factors, then rank the results to report risk and reward
- * Provided actionable recommendations to improve the security posture of a leading healthcare insurer by evaluating 12 information security tools on their inherent effectiveness and current implementations  
- * Expanded team capabilities by spearheading proof of concepts for container orchestrators like Docker Swarm and for server migration tools such as Zerto and Azure Site Recovery. Helped design and build a physical lab environment with connectivity to networks in Azure and AWS
--->
-
 
 <p class="job"><b>Network and System Administrator</b>,  Safety Services Company,  2013 - 2014</p>
 
@@ -88,6 +77,4 @@ The lead sysadmin for the largest US provider of safety training materials. Conp
 
 <!-- FOOTER -->
 
-<footer>daniel@sukoneck.com <!-- <br>sukoneck.eth --> </footer>
-
-<!-- <button onclick="theme()">Theme</button> -->
+<footer>daniel@sukoneck.com</footer>
