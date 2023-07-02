@@ -23,8 +23,6 @@ function styleDefault() {
 // fun hover
 
 var colorPairs = [
-  ['#abb2bf', '#282c34'],
-  ['#636d83', '#282c34'],
   ['#10b1fe', '#282c34'],
   ['#3fc56b', '#282c34'],
   ['#ce9887', '#282c34'],
