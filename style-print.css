@@ -1,0 +1,72 @@
+@media print {
+  .print-menu {
+    display: none;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-style: italic;
+}
+
+body {
+  color: black;
+  background: white;
+  margin: auto;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  max-width: 8.5in;
+  font-size: small;
+  word-wrap: break-word;
+}
+
+body.pre {
+  font-size: small;
+}
+
+footer {
+  display: none;
+}
+
+p.job {
+  margin-bottom: 0.5em;
+}
+
+p.job-padless  {
+  margin-bottom: 0.5em;
+}
+
+p.links {
+  display: none;
+}
+
+p.name {
+  text-align: center;
+  font-weight: bold;
+}
+
+p.section {
+  font-style: italic;
+  font-weight: bold;
+  padding-top: 1em;
+}
+
+p.summary {
+  text-align: center;
+}
+
+ul {
+  margin-top: 0.5em;
+}
+
+.name-hidden {
+  text-align: center;
+  font-weight: normal;
+}
+
+.print-menu {
+  font-size: x-large !important;
+  font-style: normal !important;
+  text-align: center !important;
+}
