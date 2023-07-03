@@ -37,7 +37,7 @@ p.job-padless  {
   margin-bottom: 0.5em;
 }
 
-p.links {
+p.toplinks {
   display: none;
 }
 
@@ -56,11 +56,19 @@ p.summary {
   text-align: center;
 }
 
+.shake {
+  display: none !important;
+}
+
+.print {
+  text-decoration: none;
+}
+
 ul {
   margin-top: 0.5em;
 }
 
-.name-hidden {
+.print-name {
   text-align: center;
   font-weight: normal;
 }

@@ -2,16 +2,25 @@
   box-sizing: border-box;
 }
 
-a:link, a:visited {
+a:link,
+a:visited {
   color: #282c34;
   text-decoration: none;
   background-color: #7a82da;
+  padding: 1px;
+  border-radius: 5px;
 }
 
-a:hover, a:active {
+a:active,
+a:hover {
   color: #282c34;
   text-decoration: none;
   background-color: #f9c859;
+}
+
+a.toplinks {
+  padding: 2px;
+  border-radius: 5px;
 }
 
 body {
@@ -36,6 +45,13 @@ footer {
   padding-bottom: 32px;
   padding-top: 48px;
   text-align: center;
+}
+
+fun {
+  display: inline;
+  transition: background-color 0.05s, color 0.05s;
+  padding: 2px;
+  border-radius: 5px;
 }
 
 li {
@@ -64,7 +80,7 @@ p.job-padless {
   font-size: large;
 }
 
-p.links {
+p.toplinks {
   font-size:1.5em;
   text-align: center;
 }
@@ -93,21 +109,22 @@ p.summary {
   text-align: center;
 }
 
+.shake {
+  font-size: x-large;
+}
+
 ul {
   padding-left: 2em;
 }
 
-.name-hidden {
+.print {
+  display: none;
+}
+
+.print-name {
   display: none;
 }
 
 .print-menu {
   display: none;
-}
-
-fun {
-  display: inline;
-  transition: background-color 0.05s, color 0.05s;
-  padding: 2px;
-  border-radius: 5px;
 }
