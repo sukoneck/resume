@@ -8,7 +8,7 @@ function stylePrint() {
     let link = document.getElementById('stylesheet');
     link.href = 'style-print.css';
     isStylePrint = true;
-    setTimeout(() => resolve(), 100); // delay in ms
+    setTimeout(() => resolve(), 500); // delay in ms
   });
 }
 
